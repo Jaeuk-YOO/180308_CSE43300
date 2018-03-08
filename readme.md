@@ -2,8 +2,18 @@
 ======================
 
 ## 본 readme 파일은 180308 실습을 위해 생성된 파일입니다.
+```js
+function greeter(person) {
+    return "Hello, " + person;
+}
+
+let user = "Jaeuk Yoo";
+
+document.body.innerHTML = greeter(user);
+```
+
 ## 1. 나에 대해
-안녕하세요. 2012103000 한국어학과 유재욱입니다. 마이크로소프트의 학생개발자 그룹인 **[Microsoft Student Partners](https://msdn.microsoft.com/ko-kr/microsoftstudentpartners.aspx)**소속으로 학생 및 주니어 개발자를 상대로 마이크로소프트의 기술을 전하는 활동을 하고 있습니다. 
+안녕하세요. 2012103000 한국어학과 유재욱입니다. 마이크로소프트의 학생개발자 그룹인 **[Microsoft Student Partners](https://msdn.microsoft.com/ko-kr/microsoftstudentpartners.aspx)**소속으로 학생 및 주니어 개발자를 상대로 마이크로소프트의 기술을 전하는 활동을 하고 있습니다. 자연어처리에 관심이 있으나 배움이 부족해 더 공부하고자 합니다.
 
 ## 2. 클리셰에 대해
 세상은 파도에게 맞서라 하지만 제게 바다는 감히 맞설 수 있는 존재는 아닙니다. 매 순간 예상치 못했던 것들에 휘청이기도 합니다. 그럼에도 불구하고 바다는 제게 있어 가능성을 전달해줍니다. 
@@ -16,7 +26,7 @@
 처음 개발 공부를 시작했던 2015년부터 공부했던 자료들부터 최근의 자료까지 진행했던 개발 프로젝트는 [github](https://github.com/Jaeuk-YOO)에 저장되어 있습니다.
 
 
-## 4. 에 대해
+## 4. 개인에 대해
 ### - 특이점
 	1. node.js나 RoR을 다루는 것을 좋아합니다.
 	2. 동아리 멋쟁이사자처럼에서 개발공부를 처음 시작했습니다.
